@@ -1,0 +1,28 @@
+﻿Build started 11.06.2017 00:11:11.
+     1>Project "G:\Geveloption\Projects\Done\1-) Proje gpa calculator\Win32ApiC\v1.05\projegba\projegba\projegba.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\geveloption\projects\done\1-) proje gpa calculator\win32apic\v1.05\projegba\projegba\wproc.h(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>g:\geveloption\projects\done\1-) proje gpa calculator\win32apic\v1.05\projegba\projegba\wproc.h(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>g:\geveloption\projects\done\1-) proje gpa calculator\win32apic\v1.05\projegba\projegba\wproc.h(163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>g:\geveloption\projects\done\1-) proje gpa calculator\win32apic\v1.05\projegba\projegba\arkaplanf.h(158): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>g:\geveloption\projects\done\1-) proje gpa calculator\win32apic\v1.05\projegba\projegba\arkaplanf.h(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>g:\geveloption\projects\done\1-) proje gpa calculator\win32apic\v1.05\projegba\projegba\arkaplanf.h(210): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\Source.res" Source.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Geveloption\Projects\Done\1-) Proje gpa calculator\Win32ApiC\v1.05\projegba\Debug\projegba.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Geveloption\Projects\Done\1-) Proje gpa calculator\Win32ApiC\v1.05\projegba\Debug\projegba.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Geveloption\Projects\Done\1-) Proje gpa calculator\Win32ApiC\v1.05\projegba\Debug\projegba.lib" /MACHINE:X86 Debug\Source.res
+         Debug\Source.obj
+         projegba.vcxproj -> G:\Geveloption\Projects\Done\1-) Proje gpa calculator\Win32ApiC\v1.05\projegba\Debug\projegba.exe
+     1>Done Building Project "G:\Geveloption\Projects\Done\1-) Proje gpa calculator\Win32ApiC\v1.05\projegba\projegba\projegba.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.32
